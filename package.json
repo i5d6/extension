@@ -204,7 +204,7 @@
     "bitcoin-address-validation": "2.2.1",
     "bitcoinjs-lib": "6.1.5",
     "bitflow-sdk": "1.6.1",
-    "bn.js": "5.2.1",
+    "bn.js": "5.2.3",
     "browserify-fs": "1.0.0",
     "c32check": "2.0.0",
     "chroma-js": "2.4.2",
